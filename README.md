@@ -6,6 +6,7 @@
 
 - O candidato terá um prazo definido para a realização do teste.
 
+- Caso tenha conhecimento em git/github leia a etapa 3 primeiro.
 
 ## Etapa 1: HTML e CSS
 
@@ -31,12 +32,13 @@
 
 ### Tarefa: Repositório e Boas Práticas
 
-- Crie um repositório no GitHub para o projeto do teste.
+- Clone o repositório para o projeto.
 - O candidato deverá:
     - Inicializar um repositório local.
+    - Criar uma branch para o o teste: teste-seunome
     - Adicionar todos os arquivos relevantes.
     - Commitar de forma clara e concisa.
-    - Fazer push para o repositório remoto no GitHub.
+    - Fazer pull request.
     - Utilizar boas práticas de Git (branching, commits bem descritos, etc.).
 
 ## Etapa 4: Boas Práticas e Código Limpo
